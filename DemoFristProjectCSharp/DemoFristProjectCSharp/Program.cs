@@ -21,6 +21,8 @@ namespace DemoFristProjectCSharp
             Console.WriteLine(result);
             Console.ReadLine();
 
+            Console.WriteLine("hi");
+
         }
     }
 }

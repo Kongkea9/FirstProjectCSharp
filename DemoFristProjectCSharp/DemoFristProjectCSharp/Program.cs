@@ -10,8 +10,17 @@ namespace DemoFristProjectCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-            Console.WriteLine("Welcome to C#");
+            int number = 1000;
+            float pi = 3.14f;
+            double amount = 100000d;
+            string firstName = "chhay";
+            string lastName = "kongkea";
+
+            int number2 = 5000;
+            int result = number + number2;
+            Console.WriteLine(result);
+            Console.ReadLine();
+
         }
     }
 }

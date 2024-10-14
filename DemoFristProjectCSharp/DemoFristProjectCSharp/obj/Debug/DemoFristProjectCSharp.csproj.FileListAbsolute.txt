@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\FirstProjectCSharp\DemoFristProjectCSharp\DemoFristProjectCSharp\bin\Debug\DemoFristProjectCSharp.exe.config
+C:\Users\User\Documents\GitHub\FirstProjectCSharp\DemoFristProjectCSharp\DemoFristProjectCSharp\bin\Debug\DemoFristProjectCSharp.exe
+C:\Users\User\Documents\GitHub\FirstProjectCSharp\DemoFristProjectCSharp\DemoFristProjectCSharp\bin\Debug\DemoFristProjectCSharp.pdb
+C:\Users\User\Documents\GitHub\FirstProjectCSharp\DemoFristProjectCSharp\DemoFristProjectCSharp\obj\Debug\DemoFristProjectCSharp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\FirstProjectCSharp\DemoFristProjectCSharp\DemoFristProjectCSharp\obj\Debug\DemoFristProjectCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\FirstProjectCSharp\DemoFristProjectCSharp\DemoFristProjectCSharp\obj\Debug\DemoFristProjectCSharp.exe
+C:\Users\User\Documents\GitHub\FirstProjectCSharp\DemoFristProjectCSharp\DemoFristProjectCSharp\obj\Debug\DemoFristProjectCSharp.pdb

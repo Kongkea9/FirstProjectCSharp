@@ -10,6 +10,7 @@ namespace DemoFristProjectCSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
